@@ -1,0 +1,2 @@
+# 24677-Modern_Control_Theory_for_Robotics
+Repository for 24677-Modern_Control_Theory_for_Robotics course at CMU
