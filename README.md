@@ -1,6 +1,6 @@
 # Modern Control Theory (24-677) Assignment & Project Repository
 
-This repository contains my assignment and project work for the Modern Control Theory (24-677) at Carnegie Mellon University taken during Fall 2024.
+This repository contains my assignment and project work for the Modern Control Theory (24-677) course at Carnegie Mellon University taken during Fall 2024.
 
 ## Course Information
 
@@ -11,13 +11,22 @@ This repository contains my assignment and project work for the Modern Control T
 
 ## Assignments
 
-1. **Assignment 1:** Rendering basics with Pytorch3D
-2. **Assignment 2:** Single view to 3D
-3. **Assignment 3:** Volume Rendering, Neural Radiance Fields, Neural Surfaces
-4. **Assignment 4:** 3D Gaussian Splatting and Diffusion Guided Optimization
-5. **Assignment 5:** Point Cloud Processing
+1. **Assignment 1:** Linear Dynamics Modeling
+2. **Assignment 2:** Solving Linear Dynamics
+3. **Assignment 3:** Controllability and Observability
+4. **Assignment 4:** Realization (State Space vs Transfer Function)
+5. **Assignment 5:** Stability
+
+## Projects
+
+1. **Project 1:** Linearization and PID Control
+2. **Project 2:** Feedback Control (Pole Placement)
+3. **Project 3:** Optimal Control- Linear-Quadratic Regulator (LQR) & Model Predictive Control (MPC)
+4. **Project 4:** Stochastic Control (Kalman Filter)
+5. **Project 5:** Adaptive Control- Model Reference Adaptive Control (MRAC)
 
 Each project folder contains the implementation details and code for designing controllers and their practical applications. The assignment folders include theoretical work related to the course concepts. Detailed instructions and explanations can be found in the README file within each assignment/project's folder.
+
 ## Academic Integrity
 
 **Warning:**
